@@ -1,0 +1,1 @@
+# calculate-firestore-document-size-with-python

@@ -12,4 +12,4 @@ https://firebase.google.com/docs/firestore/storage-size#document-name-size
 
 
 # Usage
-See `calculate-document-size.py`
+See [calculate-document-size.py](https://github.com/tommyktech/calculate-firestore-document-size-with-python/blob/main/calculate-document-size.py)
